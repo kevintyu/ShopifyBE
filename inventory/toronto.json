@@ -1,0 +1,9 @@
+{
+    "id":0, "name":"Toronto Warehouse",
+"stock":{
+    "Furniture":
+		{
+			"0":{"name":"closet","description":"its a closet","price":5.5}
+        }
+}
+}
